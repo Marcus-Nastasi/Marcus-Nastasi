@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcus-Nastasi
 - 👀 I’m interested in full-stack programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, TypeScript and React
 - 💞️ I’m looking to collaborate on the tech industry 
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/marcus-vinicius-rolemberg-nastasi-1056601b7/
 
