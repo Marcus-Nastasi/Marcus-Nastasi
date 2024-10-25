@@ -10,6 +10,14 @@ I have a strong enthusiasm for technology and a diverse background in various fi
 
 ### My Skills
 
+#### Back-end Development
+- **Languages & Frameworks:** 
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat-square&logo=nest)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+
 #### Front-end Development
 - **Languages & Frameworks:** 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -20,14 +28,6 @@ I have a strong enthusiasm for technology and a diverse background in various fi
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-#### Back-end Development
-- **Languages & Frameworks:** 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat-square&logo=nest)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 
 #### Databases
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
