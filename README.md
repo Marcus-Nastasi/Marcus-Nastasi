@@ -6,7 +6,7 @@ I'm a passionate Software Engineer currently pursuing a degree in Systems Analys
 
 ### About Me
 
-I have a strong enthusiasm for technology and a diverse background in various fields, making me a well-rounded and multidisciplinary professional. My career journey includes roles in IT sales, specialized marketing services, digital marketing, IT infrastructure, and now, a focused transition into software development. 
+I have a strong enthusiasm for technology and a diverse background in various fields, making me a well-rounded and multidisciplinary professional. My career journey includes roles in IT sales, specialized marketing services, digital marketing, IT infrastructure, and now focused on software development. 
 
 ### My Skills
 
