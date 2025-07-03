@@ -10,34 +10,32 @@ I have a strong enthusiasm for technology and a diverse background in various fi
 
 ### My Skills
 
-#### Back-end Development
-- **Languages & Frameworks:** 
-  ![Java](https://skillicons.dev/icons?i=java)
-  ![Spring Boot](https://skillicons.dev/icons?i=spring)
-  ![Golang](https://skillicons.dev/icons?i=go)
-  ![Node.js](https://skillicons.dev/icons?i=nodejs)
-  ![Nest.js](https://skillicons.dev/icons?i=nestjs)
-  ![Express.js](https://skillicons.dev/icons?i=express)
+#### Back-end Development 
+![Java](https://skillicons.dev/icons?i=java)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![Golang](https://skillicons.dev/icons?i=go)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Nest.js](https://skillicons.dev/icons?i=nestjs)
+![Express.js](https://skillicons.dev/icons?i=express)
 
 #### Front-end Development
-- **Languages & Frameworks:** 
-  ![HTML5](https://skillicons.dev/icons?i=html)
-  ![CSS3](https://skillicons.dev/icons?i=css)
-  ![JavaScript](https://skillicons.dev/icons?i=js)
-  ![TypeScript](https://skillicons.dev/icons?i=ts)
-  ![Angular](https://skillicons.dev/icons?i=angular)
-  ![Next.js](https://skillicons.dev/icons?i=nextjs)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
   
 - **Libraries:**
-  ![React](https://skillicons.dev/icons?i=react)
-  ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 - **Tools:**
-  ![Maven](https://skillicons.dev/icons?i=maven)
-  ![Hibernate](https://skillicons.dev/icons?i=hibernate)
-  ![IntelliJ](https://skillicons.dev/icons?i=idea)
-  ![VSC](https://skillicons.dev/icons?i=vscode)
-  ![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Maven](https://skillicons.dev/icons?i=maven)
+![Hibernate](https://skillicons.dev/icons?i=hibernate)
+![IntelliJ](https://skillicons.dev/icons?i=idea)
+![VSC](https://skillicons.dev/icons?i=vscode)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
 
 #### Databases
 ![MySQL](https://skillicons.dev/icons?i=mysql)
