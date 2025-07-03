@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile!
 
-I'm a passionate Fullstack Software Engineer currently pursuing a degree in Systems Analysis and Development at Universidade Presbiteriana Mackenzie.
+I'm a passionate Software Engineer currently pursuing a degree in Systems Analysis and Development at Universidade Presbiteriana Mackenzie.
 
 ### About Me
 
@@ -14,8 +14,9 @@ I have a strong enthusiasm for technology and a diverse background in various fi
 - **Languages & Frameworks:** 
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+  ![Golang](https://skillicons.dev/icons?i=go)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+  ![Nest.js](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 #### Front-end Development
