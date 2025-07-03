@@ -29,6 +29,7 @@ I have a strong enthusiasm for technology and a diverse background in various fi
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 ### Tools
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Maven](https://skillicons.dev/icons?i=maven)
 ![Hibernate](https://skillicons.dev/icons?i=hibernate)
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
@@ -53,9 +54,6 @@ I have a strong enthusiasm for technology and a diverse background in various fi
 #### Version Control
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-
-#### Tools
-![Docker](https://skillicons.dev/icons?i=docker)
 
 ### Professional Experience
 
