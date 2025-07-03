@@ -33,33 +33,33 @@ I have a strong enthusiasm for technology and a diverse background in various fi
   ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 - **Tools:**
-- ![Maven](https://skillicons.dev/icons?i=maven)
-- ![Hibernate](https://skillicons.dev/icons?i=hibernate)
-- ![IntelliJ](https://skillicons.dev/icons?i=idea)
-- ![VSC](https://skillicons.dev/icons?i=vscode)
-- ![Jenkins](https://skillicons.dev/icons?i=jenkins)
+  ![Maven](https://skillicons.dev/icons?i=maven)
+  ![Hibernate](https://skillicons.dev/icons?i=hibernate)
+  ![IntelliJ](https://skillicons.dev/icons?i=idea)
+  ![VSC](https://skillicons.dev/icons?i=vscode)
+  ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 
 #### Databases
-- ![MySQL](https://skillicons.dev/icons?i=mysql)
-- ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-- ![Redis](https://skillicons.dev/icons?i=redis)
-- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-- ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 #### Infrastructure & Hosting
-- ![AWS](https://skillicons.dev/icons?i=aws)
-- ![Azure](https://skillicons.dev/icons?i=azure)
-- ![Nginx](https://skillicons.dev/icons?i=nginx)
-- ![Linux](https://skillicons.dev/icons?i=linux)
-- ![Windows](https://skillicons.dev/icons?i=windows)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Windows](https://skillicons.dev/icons?i=windows)
 
 #### Version Control
-- ![Git](https://skillicons.dev/icons?i=git)
-- ![GitHub](https://skillicons.dev/icons?i=github)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 #### Tools
-- ![Docker](https://skillicons.dev/icons?i=docker)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 ### Professional Experience
 
