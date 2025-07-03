@@ -25,12 +25,10 @@ I have a strong enthusiasm for technology and a diverse background in various fi
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-  
-- **Libraries:**
 ![React](https://skillicons.dev/icons?i=react)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
-- **Tools:**
+### Tools
 ![Maven](https://skillicons.dev/icons?i=maven)
 ![Hibernate](https://skillicons.dev/icons?i=hibernate)
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
