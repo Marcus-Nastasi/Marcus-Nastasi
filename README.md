@@ -12,45 +12,54 @@ I have a strong enthusiasm for technology and a diverse background in various fi
 
 #### Back-end Development
 - **Languages & Frameworks:** 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+  ![Java](https://skillicons.dev/icons?i=java)
+  ![Spring Boot](https://skillicons.dev/icons?i=spring)
   ![Golang](https://skillicons.dev/icons?i=go)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Nest.js](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+  ![Node.js](https://skillicons.dev/icons?i=nodejs)
+  ![Nest.js](https://skillicons.dev/icons?i=nestjs)
+  ![Express.js](https://skillicons.dev/icons?i=express)
 
 #### Front-end Development
 - **Languages & Frameworks:** 
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![HTML5](https://skillicons.dev/icons?i=html)
+  ![CSS3](https://skillicons.dev/icons?i=css)
+  ![JavaScript](https://skillicons.dev/icons?i=js)
+  ![TypeScript](https://skillicons.dev/icons?i=ts)
+  ![Angular](https://skillicons.dev/icons?i=angular)
+  ![Next.js](https://skillicons.dev/icons?i=nextjs)
   
-- **Libraries & Tools:** 
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- **Libraries:**
+  ![React](https://skillicons.dev/icons?i=react)
+  ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+
+- **Tools:**
+- ![Maven](https://skillicons.dev/icons?i=maven)
+- ![Hibernate](https://skillicons.dev/icons?i=hibernate)
+- ![IntelliJ](https://skillicons.dev/icons?i=idea)
+- ![VSC](https://skillicons.dev/icons?i=vscode)
+- ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 
 #### Databases
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![MySQL](https://skillicons.dev/icons?i=mysql)
+- ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+- ![Redis](https://skillicons.dev/icons?i=redis)
 - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 - ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 #### Infrastructure & Hosting
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-- ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+- ![AWS](https://skillicons.dev/icons?i=aws)
+- ![Azure](https://skillicons.dev/icons?i=azure)
+- ![Nginx](https://skillicons.dev/icons?i=nginx)
+- ![Linux](https://skillicons.dev/icons?i=linux)
+- ![Windows](https://skillicons.dev/icons?i=windows)
 
 #### Version Control
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- ![Git](https://skillicons.dev/icons?i=git)
+- ![GitHub](https://skillicons.dev/icons?i=github)
 
 #### Tools
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- ![Docker](https://skillicons.dev/icons?i=docker)
 
 ### Professional Experience
 
